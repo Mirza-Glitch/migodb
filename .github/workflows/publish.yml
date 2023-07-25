@@ -52,9 +52,7 @@ jobs:
 
       - run: npm ci
 
-      - run: npm run build
-      
-      - run: npm version patch
+      - run: npm run build 
 
       - run: npm publish
 
