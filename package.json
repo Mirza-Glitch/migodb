@@ -1,0 +1,38 @@
+{
+  "name": "migodb",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "keywords": [
+    "file-system",
+    "database",
+    "jsondb",
+    "db",
+    "storage",
+    "json",
+    "filesystem",
+    "nosql",
+    "fs-db"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "description": "A file system json-based database library which mimics Mongoose, offering easy data storage and CRUD operations using JSON files.",
+  "author": "Mirza-Glitch",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "uid": "^2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mirza-Glitch/migodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Mirza-Glitch/migodb/issues"
+  },
+  "homepage": "https://github.com/Mirza-Glitch/migodb#readme"
+}
