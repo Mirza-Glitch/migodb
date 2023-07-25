@@ -1,10 +1,4 @@
-# Migodb
-
-[![npm version](https://img.shields.io/npm/v/migodb.svg)](https://www.npmjs.com/package/your-package-name)
-![npm](https://img.shields.io/npm/dy/migodb)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-## Description
+# Migodb 
 
 Migodb is a lightweight file system-based database for Node.js, inspired by Mongoose. It provides an easy-to-use API for managing data using JSON files as the storage medium. Unlike traditional database systems, migodb operates synchronously, making it suitable for smaller projects and applications where simplicity and ease are prioritized.
 
